@@ -1,32 +1,62 @@
-Hi there! 👋 I'm Sushmitha Guraja
-🚀 Passionate Computer Science Engineer | 🔐 Cybersecurity Enthusiast | 🤖 AI & ML Explorer
+# Hi, I’m Sushmitha 👋
 
-📜 About Me
-I'm a Computer Science Engineer with a strong background in Cybersecurity, Artificial Intelligence, Machine Learning, and Web Development. Currently pursuing my Master of Science in Computer Science at Purdue University, I enjoy solving complex problems, building intelligent systems, and securing digital environments.
+I’m a Computer Science graduate with a strong interest in **AI, Machine Learning, and Full-Stack Development**.  
+I enjoy building data-driven systems, experimenting with deep learning models, and turning ideas into working products.
 
-💻 Technical Skills
-Languages: Java, Python, C++, JavaScript, HTML, CSS
-Databases: MySQL, Oracle
-Tools & Frameworks: ReactJS, Bootstrap, Selenium, Git, Linux, KNIME
-Cybersecurity Tools: Kali Linux, Nmap, DNS Lookup, Steganography
-🎓 Education
-Master of Science in Computer Science – Purdue University (Ongoing)
-Bachelors of Engineering in Computer Science – Savitribai Phule Pune University (CGPA: 9.1)
-🛠️ Experience
-Cybersecurity Intern | Konsola Infotech – Performed SQL injections, DOS attacks, and security vulnerability analysis.
-Cybersecurity Intern | SmartKnower – Worked with penetration testing tools like Kali Linux, Nmap, and DNS Lookup.
-Web Development Intern | MVP’s KBTCOE – Designed and developed the official college website using HTML, CSS, JS, and PHP.
-AI/ML Intern | Cognifront – Built an ML model for heart disease prediction using Python (NumPy, Sklearn, Keras).
-🚀 Projects
-ML-Based Renting & Shifting System – Built an intelligent system using ML algorithms such as steganography and Dijkstra’s algorithm.
-Machine Vision for Object Detection – Developed an object detection system to track vehicles, detect speed, and analyze traffic.
-Time Series Analysis – Implemented an LSTM model using KNIME for forecasting trends.
-Large Language Modelling – Performed web scraping for image caption generation and text summarization.
-🏆 Certifications & Workshops
-Core Java Certification – Itech Solutions
-Cybersecurity Workshop – Konsola Infotech
-JavaScript & ReactJS Bootcamp – Shape AI
-📫 Let's Connect!
-📧 Email: sushmitha30guraja@gmail.com
-💼 LinkedIn: www.linkedin.com/in/sushmitha-guraja-185735209
-🏗️ GitHub: https://github.com/sushmithaguraja
+---
+
+## 🔍 What I Work On
+- 🤖 Machine Learning & Deep Learning models
+- 📊 Data analysis, prediction, and model evaluation
+- 🌐 Web applications using JavaScript & React
+- ⚙️ Backend logic, APIs, and system design fundamentals
+
+---
+
+## 🚀 Featured Projects
+### 🔹 Churn Prediction
+**Tech:** Python, pandas, scikit-learn  
+Built a machine learning pipeline to predict customer churn using structured data.  
+Includes data preprocessing, feature engineering, model training, and performance evaluation.
+
+### 🔹 Deep Learning Projects
+**Tech:** Python, TensorFlow / PyTorch  
+A collection of deep learning experiments covering neural networks, model training, and optimization techniques.
+
+### 🔹 VLM Explainer
+**Tech:** Vision-Language Models  
+Explores explainability concepts for vision-language models, focusing on interpretability and insights from multimodal systems.
+
+### 🔹 Web Development Projects
+**Tech:** JavaScript, React, HTML, CSS  
+Hands-on frontend projects built during bootcamps and coursework, emphasizing responsive UI and clean structure.
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+Python, JavaScript, SQL, Java  
+
+**ML / Data:**  
+NumPy, pandas, scikit-learn, TensorFlow, PyTorch  
+
+**Web:**  
+React, HTML, CSS  
+
+**Tools:**  
+Git, GitHub, Jupyter Notebook
+
+---
+
+## 📚 Currently Learning
+- Advanced deep learning architectures  
+- Backend system design & scalable APIs  
+- Model optimization and deployment basics  
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: www.linkedin.com/in/sushmitha-guraja-185735209
+- 📧 Email: sushmitha30guraja@gmail.com
+
+I’m always open to learning, collaboration, and new challenges!
